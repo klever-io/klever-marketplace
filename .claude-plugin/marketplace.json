@@ -1,0 +1,28 @@
+{
+  "name": "klever-marketplace",
+  "owner": {
+    "name": "Klever",
+    "email": "contact@klever.org"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugin marketplace for Klever integrations",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "klever-vm",
+      "source": "./plugins/klever-vm",
+      "description": "Connects Claude Code to the Klever VM MCP server for on-chain data, smart contract, and tooling access",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klever",
+        "url": "https://klever.org"
+      },
+      "homepage": "https://klever.org",
+      "repository": "https://github.com/klever-io/klever-marketplace",
+      "license": "MIT",
+      "keywords": ["klever", "blockchain", "mcp", "web3", "klever-vm"],
+      "category": "blockchain"
+    }
+  ]
+}
