@@ -1,0 +1,14 @@
+{
+  "name": "kconnect",
+  "version": "1.0.0",
+  "description": "Build Klever wallet integrations for React web apps and Node.js services using the Klever Connect SDK",
+  "author": {
+    "name": "Klever",
+    "url": "https://klever.org"
+  },
+  "homepage": "https://klever.org",
+  "repository": "https://github.com/klever-io/mcp-klever-connect",
+  "license": "MIT",
+  "keywords": ["klever", "kconnect", "wallet", "mcp", "web3", "react"],
+  "mcpServers": "./.mcp.json"
+}
