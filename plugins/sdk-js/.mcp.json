@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sdk-js": {
+      "type": "http",
+      "url": "https://mcp.klever.org/sdk-js"
+    }
+  }
+}

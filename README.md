@@ -29,7 +29,7 @@ After installation, restart Claude Code (or run `/plugin` to enable) and the plu
 | Plugin | Description | Install |
 | :--- | :--- | :--- |
 | [`klever-vm`](./plugins/klever-vm) | HTTP MCP server at `https://mcp.klever.org/mcp` that exposes Klever VM data and tooling to Claude | `/plugin install klever-vm@klever-marketplace` |
-| [`kconnect`](./plugins/kconnect) | Build Klever wallet integrations for React web apps and Node.js services using the Klever Connect SDK | `/plugin install kconnect@klever-marketplace` |
+| [`sdk-js`](./plugins/sdk-js) | Build Klever wallet integrations for React web apps and Node.js services using the Klever Connect SDK | `/plugin install sdk-js@klever-marketplace` |
 
 ## CLI alternatives
 
